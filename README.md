@@ -1,7 +1,7 @@
 # free_rolling_time
 用于在抖音直播时显示动态滚动时钟，无人直播时防止被判录播
 
- [下载地址](https://wwzs.lanzoup.com/iFdOe2ib5uqd)
+ [下载地址](https://wwzs.lanzoup.com/i344g2iwv32j)
 
  [视频教程](https://www.bilibili.com/video/BV1k3kjYZEcW)
 
